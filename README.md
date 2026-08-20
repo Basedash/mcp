@@ -21,4 +21,4 @@ Docs: [basedash.com/features/mcp-server](https://www.basedash.com/features/mcp-s
 
 ## Registry
 
-Published to the [official MCP Registry](https://registry.modelcontextprotocol.io) as `io.github.Basedash/mcp`.
+Published to the [official MCP Registry](https://registry.modelcontextprotocol.io) as `com.basedash/mcp`.
