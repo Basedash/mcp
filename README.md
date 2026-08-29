@@ -12,6 +12,14 @@ Remote MCP server for [Basedash](https://www.basedash.com), the AI-native BI pla
 | --- | --- |
 | `ask_question` | Ask a question of live workspace data and get a governed answer |
 | `get_data_sources` | List data sources available in the workspace |
+| `create_dashboard` | Create a dashboard and return its durable Basedash URL |
+| `edit_dashboard` | Edit a dashboard and return its durable Basedash URL |
+| `create_chart` | Create a chart, optionally on a dashboard, with its Basedash URL and screenshot link when available |
+| `edit_chart` | Edit a chart and return its Basedash URL and screenshot link when available |
+| `list_dashboards` | List dashboards in the workspace |
+| `get_dashboard` | Get a dashboard and its charts |
+| `list_charts` | List charts in the workspace |
+| `get_chart` | Get a chart and its details |
 
 ## Connect
 
